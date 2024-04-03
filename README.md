@@ -1,4 +1,4 @@
-### [likedin](linkedin.com/in/andrii-serdiuk)
+### [Linkedin](linkedin.com/in/andrii-serdiuk)
 
 <!--
 **andreyserdjuk/andreyserdjuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
