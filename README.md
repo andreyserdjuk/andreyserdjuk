@@ -1,5 +1,6 @@
 ### [Linkedin](linkedin.com/in/andrii-serdiuk)
-
+### [CV English](https://andreyserdjuk.github.io/cv-en/)
+### [CV Deutsch](https://andreyserdjuk.github.io/cv-de/)
 <!--
 **andreyserdjuk/andreyserdjuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
